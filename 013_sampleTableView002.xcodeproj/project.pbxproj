@@ -14,6 +14,25 @@
 		46422C721ADCA61800C95E45 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46422C711ADCA61800C95E45 /* Images.xcassets */; };
 		46422C751ADCA61800C95E45 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 46422C731ADCA61800C95E45 /* LaunchScreen.xib */; };
 		46422C811ADCA61800C95E45 /* _13_sampleTableView002Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 46422C801ADCA61800C95E45 /* _13_sampleTableView002Tests.m */; };
+		46422C8C1ADCB4E200C95E45 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46422C8B1ADCB4E200C95E45 /* DetailViewController.m */; };
+		46422C9E1ADCC47C00C95E45 /* brazile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C8E1ADCC47C00C95E45 /* brazile.jpeg */; };
+		46422C9F1ADCC47C00C95E45 /* bulemountain.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C8F1ADCC47C00C95E45 /* bulemountain.jpeg */; };
+		46422CA01ADCC47C00C95E45 /* colombia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C901ADCC47C00C95E45 /* colombia.jpeg */; };
+		46422CA21ADCC47C00C95E45 /* costalica.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C921ADCC47C00C95E45 /* costalica.jpeg */; };
+		46422CA31ADCC47C00C95E45 /* cristalmountain.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C931ADCC47C00C95E45 /* cristalmountain.jpeg */; };
+		46422CA41ADCC47C00C95E45 /* dominica.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C941ADCC47C00C95E45 /* dominica.jpeg */; };
+		46422CA51ADCC47C00C95E45 /* guatemala.png in Resources */ = {isa = PBXBuildFile; fileRef = 46422C951ADCC47C00C95E45 /* guatemala.png */; };
+		46422CA61ADCC47C00C95E45 /* haichi.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C961ADCC47C00C95E45 /* haichi.jpeg */; };
+		46422CA71ADCC47C00C95E45 /* kenya.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C971ADCC47C00C95E45 /* kenya.jpeg */; };
+		46422CA81ADCC47C00C95E45 /* kirimanjaro.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C981ADCC47C00C95E45 /* kirimanjaro.jpeg */; };
+		46422CA91ADCC47C00C95E45 /* manderin.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C991ADCC47C00C95E45 /* manderin.jpeg */; };
+		46422CAA1ADCC47C00C95E45 /* mexico.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C9A1ADCC47C00C95E45 /* mexico.jpeg */; };
+		46422CAB1ADCC47C00C95E45 /* moca.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C9B1ADCC47C00C95E45 /* moca.jpeg */; };
+		46422CAC1ADCC47C00C95E45 /* robsta.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C9C1ADCC47C00C95E45 /* robsta.jpeg */; };
+		46422CAD1ADCC47C00C95E45 /* venezuela.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422C9D1ADCC47C00C95E45 /* venezuela.jpeg */; };
+		46422CAF1ADCFAB600C95E45 /* cona.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46422CAE1ADCFAB600C95E45 /* cona.jpeg */; };
+		46422CE81ADE12F300C95E45 /* customCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 46422CE71ADE12F300C95E45 /* customCell.xib */; };
+		46422CEB1ADE142C00C95E45 /* customTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 46422CEA1ADE142C00C95E45 /* customTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +59,27 @@
 		46422C7A1ADCA61800C95E45 /* 013_sampleTableView002Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 013_sampleTableView002Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		46422C7F1ADCA61800C95E45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		46422C801ADCA61800C95E45 /* _13_sampleTableView002Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _13_sampleTableView002Tests.m; sourceTree = "<group>"; };
+		46422C8A1ADCB4E200C95E45 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		46422C8B1ADCB4E200C95E45 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		46422C8E1ADCC47C00C95E45 /* brazile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brazile.jpeg; sourceTree = "<group>"; };
+		46422C8F1ADCC47C00C95E45 /* bulemountain.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bulemountain.jpeg; sourceTree = "<group>"; };
+		46422C901ADCC47C00C95E45 /* colombia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = colombia.jpeg; sourceTree = "<group>"; };
+		46422C921ADCC47C00C95E45 /* costalica.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = costalica.jpeg; sourceTree = "<group>"; };
+		46422C931ADCC47C00C95E45 /* cristalmountain.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cristalmountain.jpeg; sourceTree = "<group>"; };
+		46422C941ADCC47C00C95E45 /* dominica.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dominica.jpeg; sourceTree = "<group>"; };
+		46422C951ADCC47C00C95E45 /* guatemala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guatemala.png; sourceTree = "<group>"; };
+		46422C961ADCC47C00C95E45 /* haichi.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haichi.jpeg; sourceTree = "<group>"; };
+		46422C971ADCC47C00C95E45 /* kenya.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kenya.jpeg; sourceTree = "<group>"; };
+		46422C981ADCC47C00C95E45 /* kirimanjaro.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kirimanjaro.jpeg; sourceTree = "<group>"; };
+		46422C991ADCC47C00C95E45 /* manderin.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = manderin.jpeg; sourceTree = "<group>"; };
+		46422C9A1ADCC47C00C95E45 /* mexico.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mexico.jpeg; sourceTree = "<group>"; };
+		46422C9B1ADCC47C00C95E45 /* moca.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moca.jpeg; sourceTree = "<group>"; };
+		46422C9C1ADCC47C00C95E45 /* robsta.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = robsta.jpeg; sourceTree = "<group>"; };
+		46422C9D1ADCC47C00C95E45 /* venezuela.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = venezuela.jpeg; sourceTree = "<group>"; };
+		46422CAE1ADCFAB600C95E45 /* cona.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cona.jpeg; sourceTree = "<group>"; };
+		46422CE71ADE12F300C95E45 /* customCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = customCell.xib; sourceTree = "<group>"; };
+		46422CE91ADE142C00C95E45 /* customTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = customTableViewCell.h; sourceTree = "<group>"; };
+		46422CEA1ADE142C00C95E45 /* customTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = customTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,10 +125,15 @@
 				46422C691ADCA61800C95E45 /* AppDelegate.m */,
 				46422C6B1ADCA61800C95E45 /* ViewController.h */,
 				46422C6C1ADCA61800C95E45 /* ViewController.m */,
+				46422C8A1ADCB4E200C95E45 /* DetailViewController.h */,
+				46422C8B1ADCB4E200C95E45 /* DetailViewController.m */,
 				46422C6E1ADCA61800C95E45 /* Main.storyboard */,
 				46422C711ADCA61800C95E45 /* Images.xcassets */,
 				46422C731ADCA61800C95E45 /* LaunchScreen.xib */,
 				46422C641ADCA61800C95E45 /* Supporting Files */,
+				46422CE71ADE12F300C95E45 /* customCell.xib */,
+				46422CE91ADE142C00C95E45 /* customTableViewCell.h */,
+				46422CEA1ADE142C00C95E45 /* customTableViewCell.m */,
 			);
 			path = 013_sampleTableView002;
 			sourceTree = "<group>";
@@ -96,6 +141,7 @@
 		46422C641ADCA61800C95E45 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				46422C8D1ADCC47C00C95E45 /* images */,
 				46422C651ADCA61800C95E45 /* Info.plist */,
 				46422C661ADCA61800C95E45 /* main.m */,
 			);
@@ -117,6 +163,29 @@
 				46422C7F1ADCA61800C95E45 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		46422C8D1ADCC47C00C95E45 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				46422CAE1ADCFAB600C95E45 /* cona.jpeg */,
+				46422C8E1ADCC47C00C95E45 /* brazile.jpeg */,
+				46422C8F1ADCC47C00C95E45 /* bulemountain.jpeg */,
+				46422C901ADCC47C00C95E45 /* colombia.jpeg */,
+				46422C921ADCC47C00C95E45 /* costalica.jpeg */,
+				46422C931ADCC47C00C95E45 /* cristalmountain.jpeg */,
+				46422C941ADCC47C00C95E45 /* dominica.jpeg */,
+				46422C951ADCC47C00C95E45 /* guatemala.png */,
+				46422C961ADCC47C00C95E45 /* haichi.jpeg */,
+				46422C971ADCC47C00C95E45 /* kenya.jpeg */,
+				46422C981ADCC47C00C95E45 /* kirimanjaro.jpeg */,
+				46422C991ADCC47C00C95E45 /* manderin.jpeg */,
+				46422C9A1ADCC47C00C95E45 /* mexico.jpeg */,
+				46422C9B1ADCC47C00C95E45 /* moca.jpeg */,
+				46422C9C1ADCC47C00C95E45 /* robsta.jpeg */,
+				46422C9D1ADCC47C00C95E45 /* venezuela.jpeg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +268,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46422CAB1ADCC47C00C95E45 /* moca.jpeg in Resources */,
 				46422C701ADCA61800C95E45 /* Main.storyboard in Resources */,
+				46422CA01ADCC47C00C95E45 /* colombia.jpeg in Resources */,
+				46422CA31ADCC47C00C95E45 /* cristalmountain.jpeg in Resources */,
+				46422C9F1ADCC47C00C95E45 /* bulemountain.jpeg in Resources */,
+				46422CAA1ADCC47C00C95E45 /* mexico.jpeg in Resources */,
+				46422C9E1ADCC47C00C95E45 /* brazile.jpeg in Resources */,
+				46422CA91ADCC47C00C95E45 /* manderin.jpeg in Resources */,
+				46422CA21ADCC47C00C95E45 /* costalica.jpeg in Resources */,
+				46422CAC1ADCC47C00C95E45 /* robsta.jpeg in Resources */,
+				46422CE81ADE12F300C95E45 /* customCell.xib in Resources */,
+				46422CAF1ADCFAB600C95E45 /* cona.jpeg in Resources */,
 				46422C751ADCA61800C95E45 /* LaunchScreen.xib in Resources */,
+				46422CA71ADCC47C00C95E45 /* kenya.jpeg in Resources */,
+				46422CA81ADCC47C00C95E45 /* kirimanjaro.jpeg in Resources */,
 				46422C721ADCA61800C95E45 /* Images.xcassets in Resources */,
+				46422CA61ADCC47C00C95E45 /* haichi.jpeg in Resources */,
+				46422CA41ADCC47C00C95E45 /* dominica.jpeg in Resources */,
+				46422CAD1ADCC47C00C95E45 /* venezuela.jpeg in Resources */,
+				46422CA51ADCC47C00C95E45 /* guatemala.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +305,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46422CEB1ADE142C00C95E45 /* customTableViewCell.m in Sources */,
 				46422C6D1ADCA61800C95E45 /* ViewController.m in Sources */,
 				46422C6A1ADCA61800C95E45 /* AppDelegate.m in Sources */,
 				46422C671ADCA61800C95E45 /* main.m in Sources */,
+				46422C8C1ADCB4E200C95E45 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +500,7 @@
 				46422C861ADCA61800C95E45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46422C871ADCA61800C95E45 /* Build configuration list for PBXNativeTarget "013_sampleTableView002Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +509,7 @@
 				46422C891ADCA61800C95E45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "customTableViewCell.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITableViewDataSource, UITableViewDelegate> {
+    NSArray *_coffeetype;
+}
 
+@property (weak, nonatomic) IBOutlet UITableView *myTableView;
 
 @end
 
